@@ -1,0 +1,8 @@
+shapely==1.8.5.post1
+commonroad-io==2022.3
+commonroad-drivability-checker==2022.2.1
+sumocr==2022.4
+jupyter
+matplotlib
+numpy
+pyyaml

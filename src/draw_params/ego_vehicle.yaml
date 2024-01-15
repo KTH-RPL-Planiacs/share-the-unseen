@@ -1,0 +1,7 @@
+draw_icon: true
+trajectory:
+  draw_trajectory: true
+  facecolor: black
+  draw_continuous: true
+  line_width: 0.5
+  zorder: 24

@@ -1,0 +1,29 @@
+dynamic_obstacle:
+  draw_icon: true
+  vehicle_shape:
+    occupancy:
+      draw_occupancies: true
+      shape:
+        opacity: 1
+        facecolor: '#ffff00'
+        edgecolor: '#000000'
+        linewidth: 0.5
+  occupancy:
+    draw_occupancies: true
+    shape:
+      opacity: 0.1
+      facecolor: black
+      edgecolor: black
+      linewidth: 0.5
+      draw_mesh: false
+      zorder: 1000
+static_obstacle:
+  occupancy:
+    draw_occupancies: true
+    shape:
+      opacity: 1.0
+      facecolor: '#808080'
+      edgecolor: '#000000'
+      linewidth: 0.5
+      zorder: 1
+
